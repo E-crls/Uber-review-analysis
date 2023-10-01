@@ -11,6 +11,6 @@ Realizei a análise comparando a Uber com o app Ola
 - Aparentemente, a Uber se manteve em uma avaliação média constante, tendo mais baixas nas primeiras versões. Com o tempo, as novas versões foram aumentando a média de avaliação da uber
 - A Ola respondeu quase que o dobro do que a Uber o fez para as avaliações no app
 - A uber deve encontrar alguma maneira de lidar com
- -- Possíveis comportamentos antiprofissionais dos motoristas
- -- Longo tempo de espera pelas corridas
- -- Tarifas altas e preços flutuantes
+ -> Possíveis comportamentos antiprofissionais dos motoristas
+ -> Longo tempo de espera pelas corridas
+ -> Tarifas altas e preços flutuantes
